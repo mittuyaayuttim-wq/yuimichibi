@@ -1,0 +1,6 @@
+{
+  "name": "YumeChibi: Anime Character & AI Companion",
+  "description": "Create and customize your cute 2D anime character with swappable SVG layers, dress-up wardrobe, and chat aloud powered by Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
